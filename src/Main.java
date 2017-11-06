@@ -3,6 +3,6 @@ public class Main {
     int secondBranch = 2;
     int secondbranch_added = 22;
     public Main() {
-
+        int test = 0;
     }
 }
